@@ -1,0 +1,19 @@
+{
+  "name": "sort-colors-js",
+  "version": "1.0.0",
+  "description": "js lib to sort colors by hue",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "sort",
+    "colors"
+  ],
+  "author": "GaspardC",
+  "license": "ISC"
+}
