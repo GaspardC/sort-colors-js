@@ -37,7 +37,7 @@ const constructColor = hexString => {
   return colorObj;
 };
 
-export const sortColorsByHue = colors => {
+export default sortColorsByHue = colors => {
   return colors
     .map(color => constructColor(color))
     .sort((a, b) => {

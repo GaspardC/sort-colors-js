@@ -1,6 +1,6 @@
 {
   "name": "sort-colors-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "js lib to sort colors by hue",
   "main": "index.js",
   "directories": {
